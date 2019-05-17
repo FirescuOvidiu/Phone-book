@@ -1,0 +1,4 @@
+﻿  Phone book.cpp
+c:\users\ovidiu\documents\visual studio 2017\projects\phone book\phone book\phone book.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\ovidiu\documents\visual studio 2017\projects\phone book\phone book\phone book.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  Phone book.vcxproj -> C:\Users\Ovidiu\Documents\Visual Studio 2017\Projects\Phone book\Debug\Phone book.exe
