@@ -1,8 +1,7 @@
-#include "pch.h"
-#include <conio.h>
-#include <fstream>
 #include <iostream>
+#include <fstream>
 #include <string>
+#include <conio.h>
 
 using namespace std;
 
